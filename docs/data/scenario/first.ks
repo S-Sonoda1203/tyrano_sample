@@ -49,7 +49,7 @@
 [link target=*tag_answer] →モンスターの属性を答える [endlink][r]
 [s]
 
-*tag_first'
+*tag_first1
 
 [cm]
 
@@ -89,7 +89,7 @@
 [r]
 "効果アリ"[r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_first1] →ひとつ前に戻る[endlink][r]
 [s]
 
 *tag_fire
@@ -100,7 +100,7 @@
 [r]
 効果イマイチ...[r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_first1] →ひとつ前に戻る[endlink][r]
 [s]
 
 *tag_water
@@ -111,7 +111,7 @@
 [r]
 効果イマイチ...[r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_first1] →ひとつ前に戻る[endlink][r]
 [s]
 
 *tag_electoric
@@ -122,7 +122,7 @@
 [r]
 効果テキメン！[r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_first1] →ひとつ前に戻る[endlink][r]
 [s]
 
 *tag_grass
@@ -133,7 +133,7 @@
 [r]
 効果テキメン！[r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_first1] →ひとつ前に戻る[endlink][r]
 [s]
 
 *tag_ice
@@ -144,7 +144,7 @@
 [r]
 効果イマイチ...[r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_first1] →ひとつ前に戻る[endlink][r]
 [s]
 
 [cm]
@@ -157,7 +157,7 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_first1] →ひとつ前に戻る[endlink][r]
 [s]
 
 *tag_poison
@@ -168,7 +168,7 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_first1] →ひとつ前に戻る[endlink][r]
 [s]
 
 *tag_ground
@@ -179,7 +179,7 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_first1] →ひとつ前に戻る[endlink][r]
 [s]
 
 *tag_flying
@@ -190,7 +190,7 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_first1] →ひとつ前に戻る[endlink][r]
 [s]
 
 *tag_psychic
@@ -201,7 +201,7 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_first1] →ひとつ前に戻る[endlink][r]
 [s]
 
 *tag_bug
@@ -212,7 +212,7 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_first1] →ひとつ前に戻る[endlink][r]
 [s]
 
 *tag_rock
@@ -223,7 +223,7 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_first1] →ひとつ前に戻る[endlink][r]
 [s]
 
 *tag_ghost
@@ -234,7 +234,7 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_first1] →ひとつ前に戻る[endlink][r]
 [s]
 
 *tag_dragon
@@ -245,7 +245,7 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_first1] →ひとつ前に戻る[endlink][r]
 [s]
 
 *tag_dark
@@ -256,7 +256,7 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_first1] →ひとつ前に戻る[endlink][r]
 [s]
 
 *tag_steel
@@ -267,7 +267,7 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_first1] →ひとつ前に戻る[endlink][r]
 [s]
 
 *tag_fairy
@@ -278,7 +278,7 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_first1] →ひとつ前に戻る[endlink][r]
 [s]
 
 *tag_answer
@@ -323,7 +323,7 @@
 
 残念！属性が違うみたい...[l][r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る [endlink][r]
+[link target=*tag_first1] →ひとつ前に戻る [endlink][r]
 [s]
 
 *tag_hint
@@ -332,7 +332,7 @@
 
 モンスターの属性は炎、水、草のいずれかだよ！[l][r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る [endlink][r]
+[link target=*tag_first1] →ひとつ前に戻る [endlink][r]
 [s]
 
 *tag_second
@@ -345,31 +345,31 @@
 [r]
 どの属性で攻撃する？[r]
 [r]
-[link target=*tag_normal'] →普 [endlink]   
-[link target=*tag_fire'] →炎 [endlink]   
-[link target=*tag_water'] →水 [endlink]   
-[link target=*tag_electoric'] →電気 [endlink]   
-[link target=*tag_grass'] →草 [endlink]   
-[link target=*tag_ice'] →氷 [endlink]   
-[link target=*tag_fighting'] →闘 [endlink]   
-[link target=*tag_poison'] →毒 [endlink]   
-[link target=*tag_ground'] →地 [endlink]   
-[link target=*tag_flying'] →飛 [endlink][r] 
-[link target=*tag_psychic'] →念 [endlink]   
-[link target=*tag_bug'] →虫 [endlink]   
-[link target=*tag_rock'] →岩 [endlink]   
-[link target=*tag_ghost'] →霊 [endlink]   
-[link target=*tag_dragon'] →竜 [endlink]   
-[link target=*tag_dark'] →悪 [endlink]   
-[link target=*tag_steel'] →鋼 [endlink]   
-[link target=*tag_fairy'] →妖 [endlink][r]
+[link target=*tag_normal2] →普 [endlink]   
+[link target=*tag_fire2] →炎 [endlink]   
+[link target=*tag_water2] →水 [endlink]   
+[link target=*tag_electoric2] →電気 [endlink]   
+[link target=*tag_grass2] →草 [endlink]   
+[link target=*tag_ice2] →氷 [endlink]   
+[link target=*tag_fighting2] →闘 [endlink]   
+[link target=*tag_poison2] →毒 [endlink]   
+[link target=*tag_ground2] →地 [endlink]   
+[link target=*tag_flying2] →飛 [endlink][r] 
+[link target=*tag_psychic2] →念 [endlink]   
+[link target=*tag_bug2] →虫 [endlink]   
+[link target=*tag_rock2] →岩 [endlink]   
+[link target=*tag_ghost2] →霊 [endlink]   
+[link target=*tag_dragon2] →竜 [endlink]   
+[link target=*tag_dark2] →悪 [endlink]   
+[link target=*tag_steel2] →鋼 [endlink]   
+[link target=*tag_fairy2] →妖 [endlink][r]
 [r]
-[link target=*tag_answer'] →モンスターの属性を答える [endlink][r]
+[link target=*tag_answer2] →モンスターの属性を答える [endlink][r]
 [r]
-[link target=*tag_hint'] →ヒントを見る [endlink][r]
+[link target=*tag_hint2] →ヒントを見る [endlink][r]
 [s]
 
-*tag_second'
+*tag_second2
 
 [cm]
 
@@ -377,31 +377,31 @@
 [r]
 どの属性で攻撃する？[r]
 [r]
-[link target=*tag_normal'] →普 [endlink]   
-[link target=*tag_fire'] →炎 [endlink]   
-[link target=*tag_water'] →水 [endlink]   
-[link target=*tag_electoric'] →電気 [endlink]   
-[link target=*tag_grass'] →草 [endlink]   
-[link target=*tag_ice'] →氷 [endlink]   
-[link target=*tag_fighting'] →闘 [endlink]   
-[link target=*tag_poison'] →毒 [endlink]   
-[link target=*tag_ground'] →地 [endlink]   
-[link target=*tag_flying'] →飛 [endlink][r] 
-[link target=*tag_psychic'] →念 [endlink]   
-[link target=*tag_bug'] →虫 [endlink]   
-[link target=*tag_rock'] →岩 [endlink]   
-[link target=*tag_ghost'] →霊 [endlink]   
-[link target=*tag_dragon'] →竜 [endlink]   
-[link target=*tag_dark'] →悪 [endlink]   
-[link target=*tag_steel'] →鋼 [endlink]   
-[link target=*tag_fairy'] →妖 [endlink][r]
+[link target=*tag_normal2] →普 [endlink]   
+[link target=*tag_fire2] →炎 [endlink]   
+[link target=*tag_water2] →水 [endlink]   
+[link target=*tag_electoric2] →電気 [endlink]   
+[link target=*tag_grass2] →草 [endlink]   
+[link target=*tag_ice2] →氷 [endlink]   
+[link target=*tag_fighting2] →闘 [endlink]   
+[link target=*tag_poison2] →毒 [endlink]   
+[link target=*tag_ground2] →地 [endlink]   
+[link target=*tag_flying2] →飛 [endlink][r] 
+[link target=*tag_psychic2] →念 [endlink]   
+[link target=*tag_bug2] →虫 [endlink]   
+[link target=*tag_rock2] →岩 [endlink]   
+[link target=*tag_ghost2] →霊 [endlink]   
+[link target=*tag_dragon2] →竜 [endlink]   
+[link target=*tag_dark2] →悪 [endlink]   
+[link target=*tag_steel2] →鋼 [endlink]   
+[link target=*tag_fairy2] →妖 [endlink][r]
 [r]
-[link target=*tag_answer'] →モンスターの属性を答える [endlink][r]
+[link target=*tag_answer2] →モンスターの属性を答える [endlink][r]
 [r]
-[link target=*tag_hint'] →ヒントを見る [endlink][r]
+[link target=*tag_hint2] →ヒントを見る [endlink][r]
 [s]
 
-*tag_normal'
+*tag_normal2
 
 [cm]
 
@@ -409,10 +409,10 @@
 [r]
 効果イマイチ...[r]
 [r]
-[link target=*tag_second'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_second2] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_fire'
+*tag_fire2
 
 [cm]
 
@@ -420,10 +420,10 @@
 [r]
 効果テキメン！[r]
 [r]
-[link target=*tag_second'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_second2] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_water'
+*tag_water2
 
 [cm]
 
@@ -431,10 +431,10 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_second'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_second2] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_electoric'
+*tag_electoric2
 
 [cm]
 
@@ -442,10 +442,10 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_second'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_second2] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_grass'
+*tag_grass2
 
 [cm]
 
@@ -453,10 +453,10 @@
 [r]
 効果イマイチ...[r]
 [r]
-[link target=*tag_second'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_second2] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_ice'
+*tag_ice2
 
 [cm]
 
@@ -464,12 +464,12 @@
 [r]
 効果イマイチ...[r]
 [r]
-[link target=*tag_second'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_second2] →ひとつ前に戻る[endlink][r]
 [s]
 
 [cm]
 
-*tag_fighting'
+*tag_fighting2
 
 [cm]
 
@@ -477,10 +477,10 @@
 [r]
 効果テキメン！[r]
 [r]
-[link target=*tag_second'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_second2] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_poison'
+*tag_poison2
 
 [cm]
 
@@ -488,10 +488,10 @@
 [r]
 効果ナシ[r]
 [r]
-[link target=*tag_second'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_second2] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_ground'
+*tag_ground2
 
 [cm]
 
@@ -499,10 +499,10 @@
 [r]
 効果テキメン！[r]
 [r]
-[link target=*tag_second'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_second2] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_flying'
+*tag_flying2
 
 [cm]
 
@@ -510,10 +510,10 @@
 [r]
 効果イマイチ...[r]
 [r]
-[link target=*tag_second'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_second2] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_psychic'
+*tag_psychic2
 
 [cm]
 
@@ -521,10 +521,10 @@
 [r]
 効果イマイチ...[r]
 [r]
-[link target=*tag_second'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_second2] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_bug'
+*tag_bug2
 
 [cm]
 
@@ -532,10 +532,10 @@
 [r]
 効果イマイチ...[r]
 [r]
-[link target=*tag_second'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_second2] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_rock'
+*tag_rock2
 
 [cm]
 
@@ -543,10 +543,10 @@
 [r]
 効果イマイチ...[r]
 [r]
-[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_first2] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_ghost'
+*tag_ghost2
 
 [cm]
 
@@ -554,10 +554,10 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_second'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_second2] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_dragon'
+*tag_dragon2
 
 [cm]
 
@@ -565,10 +565,10 @@
 [r]
 効果イマイチ...[r]
 [r]
-[link target=*tag_second'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_second2] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_dark'
+*tag_dark2
 
 [cm]
 
@@ -576,10 +576,10 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_second'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_second2] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_steel'
+*tag_steel2
 
 [cm]
 
@@ -587,10 +587,10 @@
 [r]
 効果イマイチ...[r]
 [r]
-[link target=*tag_second'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_second2] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_fairy'
+*tag_fairy2
 
 [cm]
 
@@ -598,35 +598,35 @@
 [r]
 効果イマイチ...[r]
 [r]
-[link target=*tag_second'] →ひとつ前に戻る[endlink][r]
+[link target=*tag_second2] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_answer'
+*tag_answer2
 
 [cm]
 
 モンスターの属性は・・・  [l][r]
 
-[link target=*tag_false'] →普 [endlink]   
-[link target=*tag_false'] →炎 [endlink]   
-[link target=*tag_false'] →水 [endlink]   
-[link target=*tag_false'] →電気 [endlink]   
-[link target=*tag_false'] →草 [endlink]   
-[link target=*tag_false'] →氷 [endlink]   
-[link target=*tag_false'] →闘 [endlink]   
-[link target=*tag_false'] →毒 [endlink]   
-[link target=*tag_false'] →地 [endlink]   
-[link target=*tag_false'] →飛 [endlink][r] 
-[link target=*tag_false'] →念 [endlink]   
-[link target=*tag_false'] →虫 [endlink]   
-[link target=*tag_false'] →岩 [endlink]   
-[link target=*tag_false'] →霊 [endlink]   
-[link target=*tag_false'] →竜 [endlink]   
-[link target=*tag_false'] →悪 [endlink]   
-[link target=*tag_correst'] →鋼 [endlink]   
-[link target=*tag_false'] →妖 [endlink][r]
+[link target=*tag_false2] →普 [endlink]   
+[link target=*tag_false2] →炎 [endlink]   
+[link target=*tag_false2] →水 [endlink]   
+[link target=*tag_false2] →電気 [endlink]   
+[link target=*tag_false2] →草 [endlink]   
+[link target=*tag_false2] →氷 [endlink]   
+[link target=*tag_false2] →闘 [endlink]   
+[link target=*tag_false2] →毒 [endlink]   
+[link target=*tag_false2] →地 [endlink]   
+[link target=*tag_false2] →飛 [endlink][r] 
+[link target=*tag_false2] →念 [endlink]   
+[link target=*tag_false2] →虫 [endlink]   
+[link target=*tag_false2] →岩 [endlink]   
+[link target=*tag_false2] →霊 [endlink]   
+[link target=*tag_false2] →竜 [endlink]   
+[link target=*tag_false2] →悪 [endlink]   
+[link target=*tag_correst2] →鋼 [endlink]   
+[link target=*tag_false2] →妖 [endlink][r]
 
-*tag_correct'
+*tag_correct2
 
 [cm]
 
@@ -636,22 +636,22 @@
 [link target=*tag_third] →次に進む [endlink][r]
 [s]
 
-*tag_false'
+*tag_false2
 
 [cm]
 
 残念！属性が違うみたい...[l][r]
 [r]
-[link target=*tag_second'] →ひとつ前に戻る [endlink][r]
+[link target=*tag_second2] →ひとつ前に戻る [endlink][r]
 [s]
 
-*tag_hint'
+*tag_hint2
 
 [cm]
 
 このモンスターに毒属性は効果があるかな...？[l][r]
 [r]
-[link target=*tag_second'] →ひとつ前に戻る [endlink][r]
+[link target=*tag_second2] →ひとつ前に戻る [endlink][r]
 [s]
 
 *tag_third
@@ -664,31 +664,31 @@
 [r]
 どの属性で攻撃する？[r]
 [r]
-[link target=*tag_normal''] →普 [endlink]   
-[link target=*tag_fire''] →炎 [endlink]   
-[link target=*tag_water''] →水 [endlink]   
-[link target=*tag_electoric''] →電気 [endlink]   
-[link target=*tag_grass''] →草 [endlink]   
-[link target=*tag_ice''] →氷 [endlink]   
-[link target=*tag_fighting''] →闘 [endlink]   
-[link target=*tag_poison''] →毒 [endlink]   
-[link target=*tag_ground''] →地 [endlink]   
-[link target=*tag_flying''] →飛 [endlink][r] 
-[link target=*tag_psychic''] →念 [endlink]   
-[link target=*tag_bug''] →虫 [endlink]   
-[link target=*tag_rock''] →岩 [endlink]   
-[link target=*tag_ghost''] →霊 [endlink]   
-[link target=*tag_dragon''] →竜 [endlink]   
-[link target=*tag_dark''] →悪 [endlink]   
-[link target=*tag_steel''] →鋼 [endlink]   
-[link target=*tag_fairy''] →妖 [endlink][r]
+[link target=*tag_normal3] →普 [endlink]   
+[link target=*tag_fire3] →炎 [endlink]   
+[link target=*tag_water3] →水 [endlink]   
+[link target=*tag_electoric3] →電気 [endlink]   
+[link target=*tag_grass3] →草 [endlink]   
+[link target=*tag_ice3] →氷 [endlink]   
+[link target=*tag_fighting3] →闘 [endlink]   
+[link target=*tag_poison3] →毒 [endlink]   
+[link target=*tag_ground3] →地 [endlink]   
+[link target=*tag_flying3] →飛 [endlink][r] 
+[link target=*tag_psychic3] →念 [endlink]   
+[link target=*tag_bug3] →虫 [endlink]   
+[link target=*tag_rock3] →岩 [endlink]   
+[link target=*tag_ghost3] →霊 [endlink]   
+[link target=*tag_dragon3] →竜 [endlink]   
+[link target=*tag_dark3] →悪 [endlink]   
+[link target=*tag_steel3] →鋼 [endlink]   
+[link target=*tag_fairy3] →妖 [endlink][r]
 [r]
-[link target=*tag_answer''] →モンスターの属性を答える [endlink][r]
+[link target=*tag_answer3] →モンスターの属性を答える [endlink][r]
 [r]
-[link target=*tag_hint''] →ヒントを見る [endlink][r]
+[link target=*tag_hint3] →ヒントを見る [endlink][r]
 [s]
 
-*tag_third'
+*tag_third3
 
 [cm]
 
@@ -696,31 +696,31 @@
 [r]
 どの属性で攻撃する？[r]
 [r]
-[link target=*tag_normal''] →普 [endlink]   
-[link target=*tag_fire''] →炎 [endlink]   
-[link target=*tag_water''] →水 [endlink]   
-[link target=*tag_electoric''] →電気 [endlink]   
-[link target=*tag_grass''] →草 [endlink]   
-[link target=*tag_ice''] →氷 [endlink]   
-[link target=*tag_fighting''] →闘 [endlink]   
-[link target=*tag_poison''] →毒 [endlink]   
-[link target=*tag_ground''] →地 [endlink]   
-[link target=*tag_flying''] →飛 [endlink][r] 
-[link target=*tag_psychic''] →念 [endlink]   
-[link target=*tag_bug''] →虫 [endlink]   
-[link target=*tag_rock''] →岩 [endlink]   
-[link target=*tag_ghost''] →霊 [endlink]   
-[link target=*tag_dragon''] →竜 [endlink]   
-[link target=*tag_dark''] →悪 [endlink]   
-[link target=*tag_steel''] →鋼 [endlink]   
-[link target=*tag_fairy''] →妖 [endlink][r]
+[link target=*tag_normal3] →普 [endlink]   
+[link target=*tag_fire3] →炎 [endlink]   
+[link target=*tag_water3] →水 [endlink]   
+[link target=*tag_electoric3] →電気 [endlink]   
+[link target=*tag_grass3] →草 [endlink]   
+[link target=*tag_ice3] →氷 [endlink]   
+[link target=*tag_fighting3] →闘 [endlink]   
+[link target=*tag_poison3] →毒 [endlink]   
+[link target=*tag_ground3] →地 [endlink]   
+[link target=*tag_flying3] →飛 [endlink][r] 
+[link target=*tag_psychic3] →念 [endlink]   
+[link target=*tag_bug3] →虫 [endlink]   
+[link target=*tag_rock3] →岩 [endlink]   
+[link target=*tag_ghost3] →霊 [endlink]   
+[link target=*tag_dragon3] →竜 [endlink]   
+[link target=*tag_dark3] →悪 [endlink]   
+[link target=*tag_steel3] →鋼 [endlink]   
+[link target=*tag_fairy3] →妖 [endlink][r]
 [r]
-[link target=*tag_answer''] →モンスターの属性を答える [endlink][r]
+[link target=*tag_answer3] →モンスターの属性を答える [endlink][r]
 [r]
-[link target=*tag_hint''] →ヒントを見る [endlink][r]
+[link target=*tag_hint3] →ヒントを見る [endlink][r]
 [s]
 
-*tag_normal''
+*tag_normal3
 
 [cm]
 
@@ -728,10 +728,10 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_third''] →ひとつ前に戻る[endlink][r]
+[link target=*tag_third3] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_fire''
+*tag_fire3
 
 [cm]
 
@@ -739,10 +739,10 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_third''] →ひとつ前に戻る[endlink][r]
+[link target=*tag_third3] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_water''
+*tag_water3
 
 [cm]
 
@@ -750,10 +750,10 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_third''] →ひとつ前に戻る[endlink][r]
+[link target=*tag_third3] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_electoric''
+*tag_electoric3
 
 [cm]
 
@@ -761,10 +761,10 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_third''] →ひとつ前に戻る[endlink][r]
+[link target=*tag_third3] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_grass''
+*tag_grass3
 
 [cm]
 
@@ -772,10 +772,10 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_third''] →ひとつ前に戻る[endlink][r]
+[link target=*tag_third3] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_ice''
+*tag_ice3
 
 [cm]
 
@@ -783,12 +783,12 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_third''] →ひとつ前に戻る[endlink][r]
+[link target=*tag_third3] →ひとつ前に戻る[endlink][r]
 [s]
 
 [cm]
 
-*tag_fighting''
+*tag_fighting3
 
 [cm]
 
@@ -796,10 +796,10 @@
 [r]
 効果イマイチ...[r]
 [r]
-[link target=*tag_third''] →ひとつ前に戻る[endlink][r]
+[link target=*tag_third3] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_poison''
+*tag_poison3
 
 [cm]
 
@@ -807,10 +807,10 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_third''] →ひとつ前に戻る[endlink][r]
+[link target=*tag_third3] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_ground''
+*tag_ground3
 
 [cm]
 
@@ -818,10 +818,10 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_third''] →ひとつ前に戻る[endlink][r]
+[link target=*tag_third3] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_flying''
+*tag_flying3
 
 [cm]
 
@@ -829,10 +829,10 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_third''] →ひとつ前に戻る[endlink][r]
+[link target=*tag_third3] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_psychic''
+*tag_psychic3
 
 [cm]
 
@@ -840,10 +840,10 @@
 [r]
 効果イマイチ...[r]
 [r]
-[link target=*tag_third''] →ひとつ前に戻る[endlink][r]
+[link target=*tag_third3] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_bug''
+*tag_bug3
 
 [cm]
 
@@ -851,10 +851,10 @@
 [r]
 効果テキメン！[r]
 [r]
-[link target=*tag_third''] →ひとつ前に戻る[endlink][r]
+[link target=*tag_third3] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_rock''
+*tag_rock3
 
 [cm]
 
@@ -862,10 +862,10 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_first''] →ひとつ前に戻る[endlink][r]
+[link target=*tag_first3] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_ghost''
+*tag_ghost3
 
 [cm]
 
@@ -873,10 +873,10 @@
 [r]
 効果テキメン！[r]
 [r]
-[link target=*tag_third''] →ひとつ前に戻る[endlink][r]
+[link target=*tag_third3] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_dragon''
+*tag_dragon3
 
 [cm]
 
@@ -884,10 +884,10 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_third''] →ひとつ前に戻る[endlink][r]
+[link target=*tag_third3] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_dark''
+*tag_dark3
 
 [cm]
 
@@ -895,10 +895,10 @@
 [r]
 効果テキメン！[r]
 [r]
-[link target=*tag_third''] →ひとつ前に戻る[endlink][r]
+[link target=*tag_third3] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_steel''
+*tag_steel3
 
 [cm]
 
@@ -906,10 +906,10 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_third''] →ひとつ前に戻る[endlink][r]
+[link target=*tag_third3] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_fairy''
+*tag_fairy3
 
 [cm]
 
@@ -917,35 +917,35 @@
 [r]
 効果アリ[r]
 [r]
-[link target=*tag_third''] →ひとつ前に戻る[endlink][r]
+[link target=*tag_third3] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_answer''
+*tag_answer3
 
 [cm]
 
 モンスターの属性は・・・  [l][r]
 
-[link target=*tag_false''] →普 [endlink]   
-[link target=*tag_false''] →炎 [endlink]   
-[link target=*tag_false''] →水 [endlink]   
-[link target=*tag_false''] →電気 [endlink]   
-[link target=*tag_false''] →草 [endlink]   
-[link target=*tag_false''] →氷 [endlink]   
-[link target=*tag_false''] →闘 [endlink]   
-[link target=*tag_false''] →毒 [endlink]   
-[link target=*tag_false''] →地 [endlink]   
-[link target=*tag_false''] →飛 [endlink][r] 
-[link target=*tag_correct''] →念 [endlink]   
-[link target=*tag_false''] →虫 [endlink]   
-[link target=*tag_false''] →岩 [endlink]   
-[link target=*tag_false''] →霊 [endlink]   
-[link target=*tag_false''] →竜 [endlink]   
-[link target=*tag_false''] →悪 [endlink]   
-[link target=*tag_false''] →鋼 [endlink]   
-[link target=*tag_false''] →妖 [endlink][r]
+[link target=*tag_false3] →普 [endlink]   
+[link target=*tag_false3] →炎 [endlink]   
+[link target=*tag_false3] →水 [endlink]   
+[link target=*tag_false3] →電気 [endlink]   
+[link target=*tag_false3] →草 [endlink]   
+[link target=*tag_false3] →氷 [endlink]   
+[link target=*tag_false3] →闘 [endlink]   
+[link target=*tag_false3] →毒 [endlink]   
+[link target=*tag_false3] →地 [endlink]   
+[link target=*tag_false3] →飛 [endlink][r] 
+[link target=*tag_correct3] →念 [endlink]   
+[link target=*tag_false3] →虫 [endlink]   
+[link target=*tag_false3] →岩 [endlink]   
+[link target=*tag_false3] →霊 [endlink]   
+[link target=*tag_false3] →竜 [endlink]   
+[link target=*tag_false3] →悪 [endlink]   
+[link target=*tag_false3] →鋼 [endlink]   
+[link target=*tag_false3] →妖 [endlink][r]
 
-*tag_correct''
+*tag_correct3
 
 [cm]
 
@@ -955,20 +955,20 @@
 [link target=*start] →最初に戻る [endlink][r]
 [s]
 
-*tag_false''
+*tag_false3
 
 [cm]
 
 残念！属性が違うみたい...[l][r]
 [r]
-[link target=*tag_third''] →ひとつ前に戻る [endlink][r]
+[link target=*tag_third3] →ひとつ前に戻る [endlink][r]
 [s]
 
-*tag_hint''
+*tag_hint3
 
 [cm]
 
 このモンスターに悪属性は効果があるかな...？[l][r]
 [r]
-[link target=*tag_third''] →ひとつ前に戻る [endlink][r]
+[link target=*tag_third3] →ひとつ前に戻る [endlink][r]
 [s]
