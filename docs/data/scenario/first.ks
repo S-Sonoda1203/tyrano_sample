@@ -5,7 +5,7 @@
 [wait time=200]
 [freeimage layer="base"]
 
-[bg storage=image.jpg time=500]
+[bg storage=image.png time=500]
 
 あなたの目の前にモンスターが現れます。[l][r]
 モンスターは属性を持っており、あなたは好きな属性の技でモンスターを攻撃できます。[l][r]
