@@ -93,7 +93,7 @@
 
 属性"普"で攻撃した！ [l][r]
 [r]
-"効果アリ"[r]
+効果アリ[r]
 [r]
 [link target=*tag_first1] →ひとつ前に戻る[endlink][r]
 [s]
