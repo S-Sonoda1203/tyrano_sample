@@ -15,6 +15,10 @@
 また、属性によっては効果ナシとなることもあります。[l][r]
 目の前のモンスターの属性を当ててみてください。[l][r]
 
+[cm]
+
+＊背景に写っている属性相性表を参考にしてね[l][r]
+
 [jump target=*tag_first]
 
 *tag_first
@@ -47,6 +51,8 @@
 [link target=*tag_fairy] →妖 [endlink][r]
 [r]
 [link target=*tag_answer] →モンスターの属性を答える [endlink][r]
+[r]
+[link target=*tag_hint2] →ヒントを見る [endlink][r]
 [s]
 
 *tag_first1
