@@ -633,7 +633,7 @@
 [link target=*tag_false2] →霊 [endlink]   
 [link target=*tag_false2] →竜 [endlink]   
 [link target=*tag_false2] →悪 [endlink]   
-[link target=*tag_correst2] →鋼 [endlink]   
+[link target=*tag_correct2] →鋼 [endlink]   
 [link target=*tag_false2] →妖 [endlink][r]
 [s]
 
