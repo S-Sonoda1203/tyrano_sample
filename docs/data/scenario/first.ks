@@ -631,6 +631,7 @@
 [link target=*tag_false2] →悪 [endlink]   
 [link target=*tag_correst2] →鋼 [endlink]   
 [link target=*tag_false2] →妖 [endlink][r]
+[s]
 
 *tag_correct2
 
@@ -950,6 +951,7 @@
 [link target=*tag_false3] →悪 [endlink]   
 [link target=*tag_false3] →鋼 [endlink]   
 [link target=*tag_false3] →妖 [endlink][r]
+[s]
 
 *tag_correct3
 
