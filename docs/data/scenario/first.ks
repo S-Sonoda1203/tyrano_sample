@@ -1,13 +1,17 @@
 *start
 
-[title name="タイプあてゲーム"]
+[title name="属性当てゲーム"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
 
-[bg storage=docs/data/bgimage/スクリーンショット 2025-11-11 130516.png time=500]
+[bg storage=スクリーンショット 2025-11-11 130516.png time=500]
 
-好きなタイプで攻撃　タイプを当てろ[l][r]
+あなたの目の前にモンスターが現れます。[l][r]
+モンスターは属性を持っており、モンスターの苦手属性で攻撃すると効果はテキメンです。[l][r]
+逆にモンスターの得意属性で攻撃すると効果はイマイチです。[l][r]
+あなたは好きな属性の技でモンスターを攻撃できます。[l][r]
+目の前のモンスターの属性を当ててみてください。[l][r]
 
 [jump target=*tag_first]
 
@@ -15,9 +19,11 @@
 
 [cm]
 
-第1問[r]
+1匹目[r]
+[r]
+モンスターが現れた！[l][r]
 
-どのタイプで攻撃する？[r]
+どの属性で攻撃する？[r]
 
 [link target=*tag_normal] →普 [endlink]   
 [link target=*tag_fire] →炎 [endlink]   
@@ -45,7 +51,7 @@
 
 [cm]
 
- 「しんのすけ、最も大切なのは心、人間の心だ」[l][r]
+ [l][r]
 
 [link target=*tag_end] →言った [endlink][r]
 [link target=*tag_2nd] →言ってない [endlink][r]
