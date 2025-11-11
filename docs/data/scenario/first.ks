@@ -7,35 +7,35 @@
 
 [bg storage=docs/data/bgimage/スクリーンショット 2025-11-11 130516.png time=500]
 
-好きなタイプで攻撃　タイプを当てろ[l]
+好きなタイプで攻撃　タイプを当てろ[l][r]
 
 [jump target=*tag_first]
 
-[cm]
-
 *tag_first
+
+[cm]
 
 第1問[r]
 
 どのタイプで攻撃する？[r]
 
-[link target=*tag_normal] →普 [endlink][r]
-[link target=*tag_fire] →炎 [endlink][r]
-[link target=*tag_water] →水 [endlink][r]
-[link target=*tag_electoric] →電気 [endlink][r]
-[link target=*tag_grass] →草 [endlink][r]
-[link target=*tag_ice] →氷 [endlink][r]
-[link target=*tag_fighting] →闘 [endlink][r]
-[link target=*tag_poison] →毒 [endlink][r]
-[link target=*tag_ground] →地 [endlink][r]
-[link target=*tag_flying] →飛 [endlink][r]
-[link target=*tag_psychic] →念 [endlink][r]
-[link target=*tag_bug] →虫 [endlink][r]
-[link target=*tag_rock] →岩 [endlink][r]
-[link target=*tag_ghost] →霊 [endlink][r]
-[link target=*tag_dragon] →竜 [endlink][r]
-[link target=*tag_dark] →悪 [endlink][r]
-[link target=*tag_steel] →鋼 [endlink][r]
+[link target=*tag_normal] →普 [endlink]   
+[link target=*tag_fire] →炎 [endlink]   
+[link target=*tag_water] →水 [endlink]   
+[link target=*tag_electoric] →電気 [endlink]   
+[link target=*tag_grass] →草 [endlink]   
+[link target=*tag_ice] →氷 [endlink]   
+[link target=*tag_fighting] →闘 [endlink]   
+[link target=*tag_poison] →毒 [endlink]   
+[link target=*tag_ground] →地 [endlink]   
+[link target=*tag_flying] →飛 [endlink][r] 
+[link target=*tag_psychic] →念 [endlink]   
+[link target=*tag_bug] →虫 [endlink]   
+[link target=*tag_rock] →岩 [endlink]   
+[link target=*tag_ghost] →霊 [endlink]   
+[link target=*tag_dragon] →竜 [endlink]   
+[link target=*tag_dark] →悪 [endlink]   
+[link target=*tag_steel] →鋼 [endlink]   
 [link target=*tag_fairy] →フェアリー [endlink][r]
 [r]
 [link target=*tag_answer] →タイプを答える [endlink][r]
