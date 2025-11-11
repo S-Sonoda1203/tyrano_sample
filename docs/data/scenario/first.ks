@@ -5,12 +5,14 @@
 [wait time=200]
 [freeimage layer="base"]
 
-[bg storage=スクリーンショット 2025-11-11 130516.png time=500]
+[bg storage=run.jpg time=500]
 
 あなたの目の前にモンスターが現れます。[l][r]
-モンスターは属性を持っており、モンスターの苦手属性で攻撃すると効果はテキメンです。[l][r]
-逆にモンスターの得意属性で攻撃すると効果はイマイチです。[l][r]
-あなたは好きな属性の技でモンスターを攻撃できます。[l][r]
+モンスターは属性を持っており、あなたは好きな属性の技でモンスターを攻撃できます。[l][r]
+モンスターの苦手属性で攻撃すると効果はテキメンです。[l][r]
+逆にモンスターの得意属性で攻撃しても効果はイマイチです。[l][r]
+得意でも苦手でもない属性で攻撃すると効果アリです。
+また、属性によっては効果ナシとなることもあります。[l][r]
 目の前のモンスターの属性を当ててみてください。[l][r]
 
 [jump target=*tag_first]
@@ -42,103 +44,324 @@
 [link target=*tag_dragon] →竜 [endlink]   
 [link target=*tag_dark] →悪 [endlink]   
 [link target=*tag_steel] →鋼 [endlink]   
-[link target=*tag_fairy] →フェアリー [endlink][r]
+[link target=*tag_fairy] →妖 [endlink][r]
+
+[link target=*tag_answer] →モンスターの属性を答える [endlink][r]
+[s]
+
+*tag_first'
+
+[cm]
+
+1匹目[r]
 [r]
-[link target=*tag_answer] →タイプを答える [endlink][r]
+どの属性で攻撃する？[r]
+
+[link target=*tag_normal] →普 [endlink]   
+[link target=*tag_fire] →炎 [endlink]   
+[link target=*tag_water] →水 [endlink]   
+[link target=*tag_electoric] →電気 [endlink]   
+[link target=*tag_grass] →草 [endlink]   
+[link target=*tag_ice] →氷 [endlink]   
+[link target=*tag_fighting] →闘 [endlink]   
+[link target=*tag_poison] →毒 [endlink]   
+[link target=*tag_ground] →地 [endlink]   
+[link target=*tag_flying] →飛 [endlink][r] 
+[link target=*tag_psychic] →念 [endlink]   
+[link target=*tag_bug] →虫 [endlink]   
+[link target=*tag_rock] →岩 [endlink]   
+[link target=*tag_ghost] →霊 [endlink]   
+[link target=*tag_dragon] →竜 [endlink]   
+[link target=*tag_dark] →悪 [endlink]   
+[link target=*tag_steel] →鋼 [endlink]   
+[link target=*tag_fairy] →妖 [endlink][r]
+
+[link target=*tag_answer] →モンスターの属性を答える [endlink][r]
 [s]
 
 *tag_normal
 
 [cm]
 
- [l][r]
+属性"普"で攻撃した！ [l][r]
 
-[link target=*tag_end] →言った [endlink][r]
-[link target=*tag_2nd] →言ってない [endlink][r]
+効果アリ[r]
+
+[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_2nd
+*tag_fire
 
 [cm]
 
-第３問[r]
+属性"炎"で攻撃した！ [l][r]
 
-「俺は世界最強のサラリーマン！」[l][r]
+効果イマイチ...[r]
 
-[link target=*tag_end] → 言った[endlink][r]
-[link target=*tag_3rd] → 言ってない[endlink][r]
+[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_3rd
+*tag_water
 
-第４問[r]
+[cm]
 
-「しんのすけ、女の嘘は許すのが男だ」[l][r]
+属性"水"で攻撃した！ [l][r]
 
-[link target=*tag_end] → 言った[endlink][r]
-[link target=*tag_4th] → 言ってない[endlink][r]
+効果イマイチ...[r]
+
+[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_4th
+*tag_electoric
 
-第５問[r]
+[cm]
 
-「しんのすけ、笑われるぐらいの夢の方が叶える価値があるってもんだぞ」[l][r]
+属性"電"で攻撃した！ [l][r]
 
-[link target=*tag_end] →言った [endlink][r]
-[link target=*tag_clear] → 言ってない[endlink][r]
+効果テキメン！[r]
+
+[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
 [s]
 
-*tag_clear
+*tag_grass
 
 [cm]
 
-全問正解です！おめでとう！あなたはネットで恥をかかないリテラシー[r]
-の持ち主です。[l][r]
+属性"草"で攻撃した！ [l][r]
 
-[jump target=*start]
+効果テキメン！[r]
 
-*tag_end1
+[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[s]
 
-[cm]
-
-残念、これは誰の名言でもありません！[r]
-クリックしてスタートに戻ってね[l][cm]
-
-[jump target=*start]
-
-*tag_end2
+*tag_ice
 
 [cm]
 
-残念、これは誰の名言でもありません！[r]
-クリックしてスタートに戻ってね[l][cm]
+属性"氷"で攻撃した！ [l][r]
 
-[jump target=*start]
+効果イマイチ...[r]
 
-*tag_end3
-
-[cm]
-
-残念、これは誰の名言でもありません！[r]
-クリックして1問目に戻ってね[l][cm]
-
-[jump target=*start]
-
-*tag_end4
+[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[s]
 
 [cm]
 
-残念、これはワンピースのサンジの名言です！[r]
-クリックして1問目に戻ってね[l][cm]
-
-[jump target=*start]
-
-*tag_end4
+*tag_fighting
 
 [cm]
 
-残念、これは　の名言です！[r]
-クリックして1問目に戻ってね[l][cm]
+属性"闘"で攻撃した！ [l][r]
 
-[jump target=*start]
+効果アリ[r]
+
+[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[s]
+
+*tag_poison
+
+[cm]
+
+属性"毒"で攻撃した！ [l][r]
+
+効果アリ[r]
+
+[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[s]
+
+*tag_ground
+
+[cm]
+
+属性"地"で攻撃した！ [l][r]
+
+効果アリ[r]
+
+[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[s]
+
+*tag_flying
+
+[cm]
+
+属性"飛"で攻撃した！ [l][r]
+
+効果アリ[r]
+
+[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[s]
+
+*tag_psychic
+
+[cm]
+
+属性"念"で攻撃した！ [l][r]
+
+効果アリ[r]
+
+[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[s]
+
+*tag_bug
+
+[cm]
+
+属性"虫"で攻撃した！ [l][r]
+
+効果アリ[r]
+
+[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[s]
+
+*tag_rock
+
+[cm]
+
+属性"岩"で攻撃した！ [l][r]
+
+効果アリ[r]
+
+[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[s]
+
+*tag_ghost
+
+[cm]
+
+属性"霊"で攻撃した！ [l][r]
+
+効果アリ[r]
+
+[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[s]
+
+*tag_dragon
+
+[cm]
+
+属性"竜"で攻撃した！ [l][r]
+
+効果アリ[r]
+
+[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[s]
+
+*tag_dark
+
+[cm]
+
+属性"悪"で攻撃した！ [l][r]
+
+効果アリ[r]
+
+[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[s]
+
+*tag_steel
+
+[cm]
+
+属性"鋼"で攻撃した！ [l][r]
+
+効果アリ[r]
+
+[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[s]
+
+*tag_fairy
+
+[cm]
+
+属性"妖"で攻撃した！ [l][r]
+
+効果アリ[r]
+
+[link target=*tag_first'] →ひとつ前に戻る[endlink][r]
+[s]
+
+*tag_answer
+
+[cm]
+
+モンスターの属性は・・・  [l][r]
+
+[link target=*tag_false] →普 [endlink]   
+[link target=*tag_false] →炎 [endlink]   
+[link target=*tag_correct] →水 [endlink]   
+[link target=*tag_false] →電気 [endlink]   
+[link target=*tag_false] →草 [endlink]   
+[link target=*tag_false] →氷 [endlink]   
+[link target=*tag_false] →闘 [endlink]   
+[link target=*tag_false] →毒 [endlink]   
+[link target=*tag_false] →地 [endlink]   
+[link target=*tag_false] →飛 [endlink][r] 
+[link target=*tag_false] →念 [endlink]   
+[link target=*tag_false] →虫 [endlink]   
+[link target=*tag_false] →岩 [endlink]   
+[link target=*tag_false] →霊 [endlink]   
+[link target=*tag_false] →竜 [endlink]   
+[link target=*tag_false] →悪 [endlink]   
+[link target=*tag_false] →鋼 [endlink]   
+[link target=*tag_false] →妖 [endlink][r]
+
+*tag_correct
+
+[cm]
+
+正解！おめでとう！[r]
+次の問題に進んでね[l][r]
+
+[link target=*tag_second] →次に進む [endlink][r]
+[s]
+
+*tag_false
+
+[cm]
+
+残念！属性が違うみたい...[l][r]
+
+[link target=*tag_first'] →ひとつ前に戻る [endlink][r]
+[s]
+
+*tag_hint
+
+[cm]
+
+モンスターの属性は炎、水、草のいずれかだよ！[l][r]
+
+[link target=*tag_first'] →ひとつ前に戻る [endlink][r]
+[s]
+
+*tag_second
+
+[cm]
+
+2匹目[r]
+[r]
+モンスターが現れた！[l][r]
+
+どの属性で攻撃する？[r]
+
+[link target=*tag_normal'] →普 [endlink]   
+[link target=*tag_fire'] →炎 [endlink]   
+[link target=*tag_water'] →水 [endlink]   
+[link target=*tag_electoric'] →電気 [endlink]   
+[link target=*tag_grass'] →草 [endlink]   
+[link target=*tag_ice'] →氷 [endlink]   
+[link target=*tag_fighting'] →闘 [endlink]   
+[link target=*tag_poison'] →毒 [endlink]   
+[link target=*tag_ground'] →地 [endlink]   
+[link target=*tag_flying'] →飛 [endlink][r] 
+[link target=*tag_psychic'] →念 [endlink]   
+[link target=*tag_bug'] →虫 [endlink]   
+[link target=*tag_rock'] →岩 [endlink]   
+[link target=*tag_ghost'] →霊 [endlink]   
+[link target=*tag_dragon'] →竜 [endlink]   
+[link target=*tag_dark'] →悪 [endlink]   
+[link target=*tag_steel'] →鋼 [endlink]   
+[link target=*tag_fairy'] →妖 [endlink][r]
+
+[link target=*tag_answer'] →モンスターの属性を答える [endlink][r]
+
+[link target=*tag_hint'] →ヒントを見る [endlink][r]
+[s]
